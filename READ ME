@@ -1,3 +1,4 @@
+FACEMASK DETECTION
 This model is trained on faces with Mask and without Masks and model is saved.
 Webframe has been developed using saved model and can Deployed it over the cloud servers.
 Docker file in this folder can be used for deployment of this model over your favourite cloud platforms.
